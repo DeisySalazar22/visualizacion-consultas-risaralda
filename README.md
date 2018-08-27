@@ -18,6 +18,6 @@ https://deisysalazar22.github.io/visualizacion-consultas-risaralda/
 
 ## License
 
-See the [LICENSE](LICENSE.md) file (MIT).
+See the [LICENSE](LICENSE) file (MIT).
 
 

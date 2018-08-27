@@ -16,6 +16,8 @@ Deisy Salazar
 
 https://deisysalazar22.github.io/visualizacion-consultas-risaralda/
 
+![Imagen visualización](ImagenVA.png)
+
 ## License
 
 See the [LICENSE](LICENSE) file (MIT).
